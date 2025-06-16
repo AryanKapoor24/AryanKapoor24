@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Server Side Applications**
 
-- 🌱 I’m currently learning **NodeJs and some Graphic Design**
+- 🌱 I’m currently working on  **Reactjs**
 
-- 💬 Ask me about **Java,OSs,Designs**
+- 💬 Ask me about **Java,OSs,Designs,Backend,APIs**
 
 - 📫 How to reach me **aryanalokkapoor@gmail.com**
 
