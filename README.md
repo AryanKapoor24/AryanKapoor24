@@ -5,13 +5,12 @@
 
 - 🔭 I’m currently working on **Server Side Applications**
 
-- 🌱 I’m currently working on  **Reactjs**
+- 🌱 I’m currently working on  **LLMs**
 
 - 💬 Ask me about **Java,OSs,Designs,Backend,APIs**
 
 - 📫 How to reach me **aryanalokkapoor@gmail.com**
 
-- ⚡ Fun fact **Might release my JS frustration on you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
