@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ARYAN KAPOOR</h1>
-<h3 align="center">A hungry and curious learner who is trying to code:)</h3>
+<h3 align="center">Creating AI driven pipelines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankapoor24&label=Profile%20views&color=0e75b6&style=flat" alt="aryankapoor24" /> </p>
 
-- 🔭 I’m currently working on **Server Side Applications**
+- 🔭 I’m currently building **AI Driven Pipelines**
 
 - 🌱 I’m currently working on  **LLMs**
 
-- 💬 Ask me about **Java,OSs,Designs,Backend,APIs**
+- 💬 Ask me about **Java, Neural Networks, Designs, Backend, APIs**
 
 - 📫 How to reach me **aryanalokkapoor@gmail.com**
 
